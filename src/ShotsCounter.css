@@ -1,0 +1,19 @@
+.shots-counter-container {
+  font-family: 'Times New Roman', Times, serif;
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.setup input,
+.game input {
+  margin: 0.5rem;
+  padding: 0.5rem;
+}
+
+button {
+  margin: 0.5rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
