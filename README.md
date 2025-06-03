@@ -5,3 +5,6 @@
 * once done, write 'npm start'
 
 #### There you go
+
+### PS:
+# DON'T FORGET TO ACTUALLY ADD PARTICIPANTS OR THE WEBSITE WILL CRASH
